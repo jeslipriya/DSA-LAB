@@ -1,0 +1,3 @@
+# to hide all the .exe files of c files
+
+*.exe
