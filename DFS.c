@@ -50,3 +50,17 @@ int main(){
 
     return 0;
 }
+
+
+OUTPUT:
+
+Enter the number of vertices: 5
+Enter the number of edges: 4
+Enter the edges (format: v1 v2): 
+0 1
+0 2
+1 3
+2 4
+Enter the starting vertex: 0
+DFS Traversal
+0    1    3    2    4   

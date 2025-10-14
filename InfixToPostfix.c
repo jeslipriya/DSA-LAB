@@ -73,3 +73,8 @@ int main(){
 
     return 0;
 }
+
+OUTPUT:
+
+Enter the Infix Expression: A+B*(3-(4/1))
+AB341/-*+

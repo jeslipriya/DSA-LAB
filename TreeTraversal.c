@@ -62,3 +62,8 @@ int main(){
 
     return 0;
 }
+
+OUTPUT:
+
+Enter the postfix expression: 34+2-
+Result = 5
